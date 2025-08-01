@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name                  = 'CrowdConnectedIPS'
-    s.version = '2.1.3-beta.8'
+    s.version = '2.1.3-beta.9'
     s.summary               = 'CrowdConnectedIPS XCFramework'
     s.homepage              = 'https://www.crowdconnected.com/products/sail-indoor-positioning/'
     s.social_media_url      = 'https://twitter.com/crowdconnected'
